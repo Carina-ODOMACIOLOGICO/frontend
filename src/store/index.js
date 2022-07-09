@@ -5,7 +5,7 @@ Vue.use(Vuex);
 
 export default new Vuex.Store({
   state: {
-    URLServer: "http://localhost:5000", //"https://odoomaapp.herokuapp.com", //
+    URLServer: "https://odoomaapp.herokuapp.com/", // "http://localhost:5000", //
   },
   mutations: {},
   actions: {},
